@@ -8,7 +8,8 @@ A simple one-click app for Android to reset your lives in Candy Crush Saga
 In the game Candy Crush Saga you use your lives to play. 
 After you run out of lives you have to wait 24 hours to receive 5 new lives.
 
-This can be reset by clearing application data or by simply removing the files:
+You can reset your lives back to 5 by clearing application data 
+or by simply removing these files (much cleaner):
 
     /data/data/com.king.candycrushsaga/app_storage/save_*.*
     
