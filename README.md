@@ -1,6 +1,8 @@
 CandyPwn
 ========
 
+REQUIRES ROOT!
+
 A simple one-click app for Android to reset your lives in Candy Crush Saga
 
 In the game Candy Crush Saga you use your lives to play. 
